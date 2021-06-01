@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com/orkhai/huddle-landing-page](https://github.com/orkhai/huddle-landing-page)
-- Live Site URL: [orkhai.github.io/huddle-landing-page/](//https://orkhai.github.io/huddle-landing-page/)
+- Live Site URL: [orkhai.github.io/huddle-landing-page/](https://orkhai.github.io/huddle-landing-page)
 
 ## My process
 
